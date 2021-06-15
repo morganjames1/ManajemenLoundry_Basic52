@@ -1,0 +1,13 @@
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\bin\Debug\netcoreapp3.1\ManajemenLaundry.exe
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\bin\Debug\netcoreapp3.1\ManajemenLaundry.deps.json
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\bin\Debug\netcoreapp3.1\ManajemenLaundry.runtimeconfig.json
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\bin\Debug\netcoreapp3.1\ManajemenLaundry.runtimeconfig.dev.json
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\bin\Debug\netcoreapp3.1\ManajemenLaundry.dll
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\bin\Debug\netcoreapp3.1\ManajemenLaundry.pdb
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\obj\Debug\netcoreapp3.1\ManajemenLaundry.csproj.AssemblyReference.cache
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\obj\Debug\netcoreapp3.1\ManajemenLaundry.AssemblyInfoInputs.cache
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\obj\Debug\netcoreapp3.1\ManajemenLaundry.AssemblyInfo.cs
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\obj\Debug\netcoreapp3.1\ManajemenLaundry.csproj.CoreCompileInputs.cache
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\obj\Debug\netcoreapp3.1\ManajemenLaundry.dll
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\obj\Debug\netcoreapp3.1\ManajemenLaundry.pdb
+I:\METRODATA\PROJECT\Tugas\4\ManajemenLaundry\obj\Debug\netcoreapp3.1\ManajemenLaundry.genruntimeconfig.cache
